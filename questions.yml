@@ -1,0 +1,106 @@
+- index: 1
+  title: How does Instagram censor nudity?
+  description: Some images on Instagram are reported and, in some cases, removed. Users may then try to reupload their images in their original form, or attempt to pixelate, blur, and remove certain elements to comply with Instagram’s policy. You’ll see a collection of images demonstrating how nudity is censored, for example the censoring of female nipples, artworks, and wellbeing and mastectomy posts. Images with the green background are viewed by Instagram as “appropriate”, and images with a red background “go against [Instagram’s] community guidelines”. 
+  cover: instagramcover.png
+  folder: question-1
+  datasets:
+    - name: HuffPost
+      description: Women Are Pretending To Be Men On Instagram To Avoid Sexist Censorship
+      src: https://www.huffingtonpost.co.uk/entry/women-are-pretending-to-be-men-on-instagram-to-avoid-sexist-censorship_n_5dd30f2be4b0263fbc99421e
+      format: HTML
+
+    - name: Glamour
+      description: The Instagram Nudity Policy Is Changing To Be More Inclusive of Plus-Size Bodies
+      src: https://www.glamour.com/story/the-instagram-nudity-policy-is-changing-to-be-more-inclusive-of-plus-size-bodies
+      format: HTML
+
+    - name: Digital Environments
+      description: Part 2 Hair, Blood and the Nipple - But Whose Nipple makes the Cut?
+      src: https://www.researchgate.net/publication/314164831_Hair_Blood_and_the_Nipple_Instagram_Censorship_and_the_Female_Body_Ethnographic_Perspectives_Across_Global_Online_and_Offline_Spaces
+      format: HTML / .pdf
+
+    - name: Everyday Health
+      description: Instagram and Facebook, Please Stop Sexualizing Our Mastectomy Photos
+      src: https://www.everydayhealth.com/breast-cancer/instagram-and-facebook-please-stop-sexualizing-our-mastectomy-photos/
+      format: HTML
+
+    - name: SELF
+      description: This Breast Cancer PSA Used Man Boobs to Get Around Nipple Censorship on Social Media
+      src: https://www.self.com/story/this-breast-cancer-psa-used-man-boobs-to-get-around-nipple-censorship-on-social-media
+      format: HTML
+
+
+- index: 2
+  title: In what ways has Facebook censored Covid-19 news,guidance, and information?
+  description: Facebook has been very open in its attempt to diminish posts that explicity dictate apparent misinformation or are directly deemed as an influential contributor to it. The following system look to discuss this matter in depth in an attempt to visualise the power of authority social media accounts inhabit.
+  cover: facebookcover.png
+  folder: question-2
+  datasets:
+    - name: External link - DATA VISUALISATION
+      description: Viewing purposes for the data visualisation, question 2 article.
+      src: https://drive.google.com/file/d/16OFqRbdUNOto1ddPXh3KmVYtW-QNxuf8/view?usp=sharing
+    - name: Forbes
+      description: 
+      src: https://www.forbes.com/sites/petersuciu/2021/05/28/social-media-about-face-facebook-wont-remove-claims-covid-was-man-made/
+      size: 
+      format: weblink - Article
+    - name: CNN
+      description: 
+      src: https://edition.cnn.com/2021/05/27/tech/facebook-covid-19-origin-claims-removal/index.html
+      size: 
+      format: weblink - Article
+    - name: Big Brother Watch
+      src: https://bigbrotherwatch.org.uk/2021/03/facebooks-new-covid-policy-limits-more-than-free-speech-it-limits-free-inquiry/
+      format: weblink - Article
+    - name: Bloomberg
+      src: https://www.bloomberg.com/opinion/articles/2021-06-07/facebook-youtube-erred-in-censoring-covid-19-misinformation
+      format: weblink - Article
+    - name: The Guardian
+      src: https://www.theguardian.com/technology/2021/may/27/facebook-lifts-ban-on-posts-claiming-covid-19-was-man-made
+      format: weblink - Article
+    - name: The Guardian
+      src: https://www.theguardian.com/world/2021/jan/06/facebook-instagram-urged-fight-deluge-anti-covid-vaccine-falseh
+      format: weblink - Article
+    - name: The Economist
+      src: https://www.economist.com/briefing/2020/10/22/social-medias-struggle-with-self-censorship
+      format: weblink - Article
+    - name: NPR
+      src: https://www.npr.org/2020/10/16/924625825/dont-censor-stop-the-hoaxes-facebook-twitter-face-a-catch-22
+      format: weblink - Article
+    - name: unherd
+      src: https://unherd.com/
+      format: weblink - Article
+    - name: unherd
+      src: https://unherd.com/2021/05/how-facebook-censored-the-lab-leak-theory/
+      format: weblink - Article
+    - name: newrepublic
+      src: https://newrepublic.com/
+      format: weblink - Article
+    - name: bbc
+      src: https://www.bbc.co.uk/
+      format: weblink - Article
+    - name: engadget
+      src: https://www.engadget.com/
+      format: weblink - Article
+    - name: FT
+      src: https://12ft.io/proxy?q=https%3A%2F%2Fwww.ft.com%2Fcontent%2Fdcc9c9bf-2abe-4167-aaac-efc067d5a359
+      format: weblink - Article
+    - name: Quartz
+      src: https://qz.com/719905/a-complete-guide-to-all-the-things-facebook-censors-hate-most/
+      format: weblink - Article
+- index: 3
+  title: In what ways has Reddit explored censorship of coronavirus related speech?
+  description: Reddit was criticized by many of its users for not banning and censoring COVID-19 misinformation. Finally giving into the pressure of all the criticism and protests Reddit began censoring and banning COVID-19 misinformation bringing to light factual information about the pandemic and the virus.
+  folder: question-3
+  cover: redditcover.png
+  datasets:
+    - name: Wikipedia
+      description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Dataset retrieved on 01/02/2003. 
+      src: magic-data.csv
+      size: 0.0 KB
+      format: .csv
+    - name: Google News
+      description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Dataset retrieved on 01/02/2003.
+      src: ugly-data.csv
+      size: 0.0 KB
+      format: .csv

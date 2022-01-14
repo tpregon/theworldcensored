@@ -1,0 +1,15 @@
+html {
+  --color-main: rgb(236,105,59);
+  --color-main-lighter: #c3c2ff;
+  --color-text: #333333;
+  --color-text-lighter: #aaaaaa;
+  --color-background: #fbfbfd;
+  --font-display: "Commissioner", sans-serif;
+  --font-text: "Commissioner", sans-serif;
+}
+
+#plastic-map-container {
+  position: relative;
+  border-radius: 4px;
+  padding: 20px;
+}
